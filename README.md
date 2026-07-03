@@ -2,7 +2,7 @@
 
 # 👋 Sayan Bardhan
 
-### `Final-Year IT Student` · `Incoming Customer Technology @ EY GDS` · `RAG / LLM / Computer Vision Builder`
+### `Btech Graduate in Information Technology` · `Incoming Consultant@ EY GDS` · `RAG / LLM / Computer Vision Builder`
 
 <sub>Turning coffee, curiosity, and a Spring Boot manual into things that (mostly) work in production.</sub>
 
