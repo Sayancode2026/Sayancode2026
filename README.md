@@ -125,10 +125,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sayancode2026&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayancode2026&theme=radical&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37" />
 </p>
 
@@ -138,7 +134,10 @@
   <img src="https://raw.githubusercontent.com/Sayancode2026/Sayancode2026/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-> 
+> ⚙️ This needs a one-time GitHub Actions workflow to generate — it will stay broken until that's added. I can give you the exact workflow file — just ask.
+
+---
+
 <div align="center">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
