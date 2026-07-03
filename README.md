@@ -1,10 +1,20 @@
-<h1 align="center">Hi, I'm Sayan Bardhan 👋</h1>
-<h3 align="center">Final-Year IT Student @ IEM Kolkata | Incoming Customer Technology (Adobe/Java/Spring Boot) @ EY GDS | AI/ML & Backend Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/sayan-bardhan-00405a199"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:sayanbardhan2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=180&section=header&text=Sayan%20Bardhan&fontSize=48&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Building%20in%20AI%2FML%2C%20RAG%20systems%20%26%20Backend%20Engineering&descAlignY=58&descSize=18&descColor=E8E8E8" width="100%"/>
+
+<a href="https://linkedin.com/in/sayan-bardhan-00405a199"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:sayanbardhan2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Sayancode2026"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<br/><br/>
+
+<a href="https://github.com/Sayancode2026">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Final-Year+IT+Student+%40+IEM+Kolkata;Incoming+Customer+Technology+%40+EY+GDS;RAG+%2F+LLM+%2F+Computer+Vision+Builder;Director's+Award+Winner+2026" alt="Typing SVG" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Sayancode2026&label=Profile%20Views&color=D4AF37&style=flat" />
+
+</div>
 
 ---
 
@@ -21,28 +31,18 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,fastapi,flask,pytorch,tensorflow,opencv,gcp,docker,mongodb,postgres,git,react,nodejs&theme=dark" />
+</p>
 
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Backend & Cloud**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-6E4AFF?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/ChromaDB-6E4AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-D4AF37?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
 
 ---
 
@@ -59,10 +59,46 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sayancode2026&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayancode2026&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sayancode2026&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayancode2026&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayancode2026&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayancode2026&theme=radical&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sayancode2026&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayancode2026&theme=react-dark&hide_border=true&bg_color=0D1117&color=D4AF37&line=D4AF37&point=E8E8E8" width="100%"/>
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sayancode2026/Sayancode2026/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+> ⚙️ Requires a one-time GitHub Actions setup — see setup note below.
+
+### 🌐 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sayancode2026/Sayancode2026/output/github-contribution-grid-snake.svg" width="100%"/>
+</p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=footer" width="100%"/>
+</div>
+
+<!--
+SETUP NOTE for the snake animation above:
+1. In the Sayancode2026/Sayancode2026 repo, go to Settings → Secrets → Actions (nothing needed here, it's public data).
+2. Add a workflow file at .github/workflows/snake.yml — ask Claude for the exact YAML if needed.
+3. It runs daily, generates the snake SVG from your real contribution graph, and commits it to an "output" branch.
+4. Once that branch exists, the image above will render automatically.
+-->
