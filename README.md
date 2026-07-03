@@ -138,10 +138,7 @@
   <img src="https://raw.githubusercontent.com/Sayancode2026/Sayancode2026/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-> ⚙️ This needs a one-time GitHub Actions workflow to generate — it will stay broken until that's added. I can give you the exact workflow file — just ask.
-
----
-
+> 
 <div align="center">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
