@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=180&section=header&text=Sayan%20Bardhan&fontSize=48&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Building%20in%20AI%2FML%2C%20RAG%20systems%20%26%20Backend%20Engineering&descAlignY=58&descSize=18&descColor=E8E8E8" width="100%"/>
+# Sayan Bardhan
+
+### Final-Year IT Student @ IEM Kolkata &nbsp;|&nbsp; Incoming Customer Technology @ EY GDS &nbsp;|&nbsp; RAG / LLM / Computer Vision
 
 <a href="https://linkedin.com/in/sayan-bardhan-00405a199"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:sayanbardhan2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/Sayancode2026"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <br/><br/>
-
-<a href="https://github.com/Sayancode2026">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Final-Year+IT+Student+%40+IEM+Kolkata;Incoming+Customer+Technology+%40+EY+GDS;RAG+%2F+LLM+%2F+Computer+Vision+Builder;Director's+Award+Winner+2026" alt="Typing SVG" />
-</a>
 
 <img src="https://komarev.com/ghpvc/?username=Sayancode2026&label=Profile%20Views&color=D4AF37&style=flat" />
 
@@ -60,19 +58,10 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sayancode2026&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayancode2026&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayancode2026&theme=radical&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sayancode2026&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayancode2026&theme=react-dark&hide_border=true&bg_color=0D1117&color=D4AF37&line=D4AF37&point=E8E8E8" width="100%"/>
 </p>
 
 ### 🐍 Contribution Snake
@@ -81,18 +70,10 @@
   <img src="https://raw.githubusercontent.com/Sayancode2026/Sayancode2026/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-> ⚙️ This needs a one-time GitHub Actions workflow to generate — it will stay broken until that's added (see setup note below). I can give you the exact workflow file — just ask.
+> ⚙️ This needs a one-time GitHub Actions workflow to generate — it will stay broken until that's added. I can give you the exact workflow file — just ask.
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=footer" width="100%"/>
+<sub>Thanks for stopping by — always building something new.</sub>
 </div>
-
-<!--
-SETUP NOTE for the snake animation above:
-1. In the Sayancode2026/Sayancode2026 repo, go to Settings → Secrets → Actions (nothing needed here, it's public data).
-2. Add a workflow file at .github/workflows/snake.yml — ask Claude for the exact YAML if needed.
-3. It runs daily, generates the snake SVG from your real contribution graph, and commits it to an "output" branch.
-4. Once that branch exists, the image above will render automatically.
--->
