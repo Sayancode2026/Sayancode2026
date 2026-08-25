@@ -1,0 +1,50 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="260" rx="14" fill="url(#bg)" stroke="#D4AF37" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <circle cx="28" cy="26" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="26" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="26" r="6" fill="#27c93f"/>
+  <text x="450" y="31" font-family="JetBrains Mono, monospace" font-size="13" fill="#8b949e" text-anchor="middle">dark@ey-gds: ~/sayan-bardhan</text>
+  <line x1="0" y1="46" x2="900" y2="46" stroke="#30363d" stroke-width="1"/>
+
+  <!-- terminal body -->
+  <g font-family="JetBrains Mono, monospace" font-size="17" fill="#c9d1d9">
+    <text x="28" y="82"><tspan fill="#27c93f">dark@ey-gds</tspan><tspan fill="#8b949e">:~$</tspan> whoami</text>
+
+    <text x="28" y="112" fill="#D4AF37" font-weight="bold" filter="url(#glow)">
+      <tspan>Sayan Bardhan — Associate Software Engineer @ EY GDS</tspan>
+      <animate attributeName="opacity" values="0;0;1" dur="2.6s" begin="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="142" opacity="0">
+      <tspan fill="#27c93f">dark@ey-gds</tspan><tspan fill="#8b949e">:~$</tspan> cat focus.yaml
+      <animate attributeName="opacity" values="0;0;1" dur="0.4s" begin="2.6s" fill="freeze"/>
+    </text>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1" dur="0.4s" begin="3.0s" fill="freeze"/>
+      <text x="28" y="168" fill="#79c0ff">education:</text><text x="150" y="168" fill="#c9d1d9">B.Tech IT, IEM Kolkata — CGPA 9.17/10</text>
+      <text x="28" y="192" fill="#79c0ff">building:</text><text x="150" y="192" fill="#c9d1d9">RAG · LLM Agents · Computer Vision · Spring Boot</text>
+      <text x="28" y="216" fill="#79c0ff">status:</text><text x="150" y="216" fill="#c9d1d9">joining EY GDS · 23 Sep 2026 · Adobe AEM/Java stack</text>
+    </g>
+
+    <rect x="28" y="228" width="11" height="18" fill="#D4AF37">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="3.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
