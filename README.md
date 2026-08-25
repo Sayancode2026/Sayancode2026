@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal-banner.svg" width="900" alt="terminal banner" />
+<img src="./terminal-banner.svg" width="900" alt="terminal banner" />
 
 <br/><br/>
 
@@ -33,7 +33,7 @@
 ### 📟 stack_confidence.log
 
 <div align="center">
-<img src="./assets/skill-bars.svg" width="900" alt="custom skill confidence chart" />
+<img src="./skill-bars.svg" width="900" alt="custom skill confidence chart" />
 </div>
 
 <br/>
