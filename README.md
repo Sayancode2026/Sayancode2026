@@ -42,7 +42,7 @@
 
 ```yaml
 name: Sayan Bardhan
-handle: dark
+handle: Sayancode2026
 role: Incoming Associate Software Engineer @ EY GDS (Sep 2026)
 education: B.Tech IT, Institute of Engineering & Management, Kolkata — CGPA 9.17/10, Class of 2026
 focus: [RAG systems, LLM engineering, Computer Vision, Backend @ scale]
