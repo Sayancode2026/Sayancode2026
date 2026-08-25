@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/sayan-bardhan-00405a199"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:sayanbardhan2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/Sayancode2026"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.youtube.com/@Sayancode2026"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com/@runtimedecodedyt"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 <img src="https://komarev.com/ghpvc/?username=Sayancode2026&label=Profile%20Views&color=D4AF37&style=for-the-badge" />
 
