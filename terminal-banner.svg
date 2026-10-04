@@ -40,7 +40,7 @@
       <animate attributeName="opacity" values="0;0;1" dur="0.4s" begin="3.0s" fill="freeze"/>
       <text x="28" y="168" fill="#79c0ff">education:</text><text x="150" y="168" fill="#c9d1d9">B.Tech IT, IEM Kolkata — CGPA 9.17/10</text>
       <text x="28" y="192" fill="#79c0ff">building:</text><text x="150" y="192" fill="#c9d1d9">RAG · LLM Agents · Computer Vision · Spring Boot</text>
-      <text x="28" y="216" fill="#79c0ff">status:</text><text x="150" y="216" fill="#c9d1d9">EY GDS · SalesForce Practice</text>
+      <text x="28" y="216" fill="#79c0ff">status:</text><text x="150" y="216" fill="#c9d1d9">EY GDS · SalesForce Practice.</text>
     </g>
 
     <rect x="28" y="228" width="11" height="18" fill="#D4AF37">
